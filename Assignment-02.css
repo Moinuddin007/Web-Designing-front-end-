@@ -1,0 +1,65 @@
+.container{
+	width: 80%;
+	margin: 0px auto;
+
+}
+.green{
+	width: 100%;
+	height: 130px;
+	background-color: green;
+}
+.orange{
+	width: 100%;
+	height: 200px;
+	background-color: orange;
+	margin-bottom: 15px;
+}
+.brown{
+	width: 250px;
+	height: 250px;
+	background-color: brown;
+	float: left;
+	margin-left: 15px;
+	border-radius: 50%;
+}
+.sky-blue{
+	width: 250px;
+	height: 250px;
+	background-color: skyblue;
+	float: left;
+	margin-left: 200px;
+	border-radius: 50%;
+}
+.limegreen{
+	width: 250px;
+	height: 250px;
+	background-color: limegreen;
+	float: right;
+	margin-right: 15px;
+	border-radius: 50%;
+
+}
+.purple{
+	clear: both;
+	width: 75%;
+	height: 200px;
+	background-color: purple;
+	float: left;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.red{
+	width: 23%;
+	height: 200px;
+	background-color: red;
+	float: right;
+	margin-bottom: 15px;
+	margin-top: 15px;
+
+}
+.aqua{
+	clear: both;
+	width: 100%;
+	height: 100px;
+	background-color: aqua;
+}

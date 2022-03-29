@@ -1,0 +1,59 @@
+.container{
+		width: 90%;
+		margin: 0px auto;
+		background-color: lightpink;
+	}
+	.header{
+		width: 95%;
+		height: 100px;
+		background-color: lightgreen;
+		margin-left: 30px;
+	}
+	.content{
+		width: 95%;
+		height: 750px;
+		background-color: palevioletred;
+		margin-left: 30px;
+
+	}
+	
+	.content .entry-1{
+		width: 50%;
+		height:220px;
+		background-color: skyblue;
+		margin-left: 15px;
+		float: left;
+		
+	}
+	.content .sidebar{
+		width: 40%;
+		height: 700px;
+		background-color: skyblue;
+		margin-right: 55px;
+		float: right;
+
+	}
+
+	.content .entry-2{
+		width: 50%;
+		height: 220px;
+		background-color: skyblue;
+		margin-left: 15px;
+		margin-top: 18px;
+		margin-bottom: 18px;
+		float: left;
+	}
+	.content .entry-3{
+		width: 50%;
+		height: 220px;
+		background-color: skyblue;
+		margin-left: 15px;
+		float: left;
+	}
+	
+	.footer{
+		width: 95%;
+		height: 150px;
+		background-color: limegreen;
+		margin-left: 30px;
+	}
