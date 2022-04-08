@@ -1,0 +1,95 @@
+.container{
+		width: 90%;
+		margin: 0px auto;
+		background-color: lightpink;
+	}
+	.yellow{
+		width: 350px;
+		height: 350px;
+		background-color: yellow;
+		border-radius: 50%;
+		float: left;
+		margin-top: 25px;
+		margin-left: 170px;
+		margin-bottom: 25px;
+
+	}
+	.black{
+		width: 47%;
+		height: 350px;
+		background-color: black;
+		float: right;
+		margin-right: 20px;
+		margin-top: 25px;
+		margin-bottom: 25px;
+	}
+	.grey{
+		clear: both;
+		width: 47%;
+		height: 330px;
+		background-color: grey;
+		float: left;
+		margin-left: 20px;
+		margin-bottom: 25px;
+	}
+	.rose{
+		width: 330px;
+		height: 330px;
+		background-color:hotpink;
+		float: right;
+		border-radius: 50%;
+		margin-right: 180px;
+		margin-bottom: 25px;
+	}
+	.sky-blue{
+		clear: both;
+		width: 47%;
+		height: 300px;
+		background-color: skyblue;
+		margin-left: 20px;
+		float: left;
+		margin-bottom: 25px;
+
+	}
+	.green{
+		width: 300px;
+		height: 300px;
+		background-color: forestgreen;
+		float: right;
+		margin-right: 180px;
+		margin-bottom: 25px;
+		border-radius: 50%;
+
+	}
+	.red{
+		clear: both;
+		width: 99%;
+		height: 250px;
+		background-color: mediumblue;
+		margin-left: 10px;
+		margin-right: 5px;
+	}
+	.red .a{
+		width: 26%;
+		height: 230px;
+		background-color: orangered;
+		float: left;
+		margin: 10px 10px;
+	}
+	.red .b{
+		width: 26%;
+		height: 230px;
+		background-color: orangered;
+		float: left;
+		margin-left: 170px;
+		margin-bottom: 10px;
+		margin-top: 10px;
+	
+	}
+	.red .c{
+		width:26%;
+		height: 230px;
+		background-color: orangered;
+		float: right;
+		margin: 10px 10px;
+	}
